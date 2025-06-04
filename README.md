@@ -38,3 +38,6 @@ To run locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Abhinav23055/Interactive-Quiz-Application.git
+2. Open index.html in your browser
+   OR
+   Use Live Server in VS Code for better development experience.
