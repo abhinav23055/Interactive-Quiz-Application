@@ -2,7 +2,8 @@
 
 An interactive and user-friendly quiz application built using **HTML**, **CSS**, and **JavaScript**. This project demonstrates core web development skills and allows users to test their knowledge on various topics.
 
-🔗 **Live Demo**: [Click Here](https://abhinav23055.github.io/Interactive-Quiz-Application/)
+🔗 **Live Demo**: [Click Here]<img width="642" alt="screenshot" src="https://github.com/user-attachments/assets/ac6c0f56-f95d-471f-89fc-258106c1049c" />
+
 
 ---
 
@@ -42,29 +43,3 @@ To run locally:
    OR
    Use Live Server in VS Code for better development experience.
 
-📁 Project Structure
-   Interactive-Quiz-Application/
-│
-├── index.html       # Main HTML file
-├── script.js        # Logic for quiz handling
-├── style.css        # Styling and layout
-└── README.md        # Project documentation
-
-🎓 Educational Use
-This project is great for:
-
-Beginners learning DOM manipulation
-
-Practicing event handling in JavaScript
-
-Building a portfolio project
-
-
-🛠️ Future Improvements
-Add question categories
-
-Timer and countdown
-
-Leaderboard system
-
-Save progress with localStorage
