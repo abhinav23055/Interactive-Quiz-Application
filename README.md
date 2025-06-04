@@ -2,7 +2,9 @@
 
 An interactive and user-friendly quiz application built using **HTML**, **CSS**, and **JavaScript**. This project demonstrates core web development skills and allows users to test their knowledge on various topics.
 
-🔗 **Live Demo**: [Click Here]<img width="642" alt="screenshot" src="https://github.com/user-attachments/assets/ac6c0f56-f95d-471f-89fc-258106c1049c" />
+# 🔗 **Live Demo**: 
+
+<img width="642" alt="screenshot" src="https://github.com/user-attachments/assets/ac6c0f56-f95d-471f-89fc-258106c1049c" />
 
 
 ---
