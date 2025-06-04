@@ -41,3 +41,30 @@ To run locally:
 2. Open index.html in your browser
    OR
    Use Live Server in VS Code for better development experience.
+
+📁 Project Structure
+   Interactive-Quiz-Application/
+│
+├── index.html       # Main HTML file
+├── script.js        # Logic for quiz handling
+├── style.css        # Styling and layout
+└── README.md        # Project documentation
+
+🎓 Educational Use
+This project is great for:
+
+Beginners learning DOM manipulation
+
+Practicing event handling in JavaScript
+
+Building a portfolio project
+
+
+🛠️ Future Improvements
+Add question categories
+
+Timer and countdown
+
+Leaderboard system
+
+Save progress with localStorage
