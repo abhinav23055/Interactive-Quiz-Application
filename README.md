@@ -26,8 +26,8 @@ An interactive and user-friendly quiz application built using **HTML**, **CSS**,
 
 ## 📸 Screenshot
 
-![App Screenshot](https://user-images.githubusercontent.com/your-github-username/your-screenshot.png)  
-> _(Replace with actual screenshot if needed)_
+![App Screenshot]<img width="642" alt="screenshot" src="https://github.com/user-attachments/assets/931a65a1-b929-4126-b980-cff52b5198f8" />
+
 
 ---
 
