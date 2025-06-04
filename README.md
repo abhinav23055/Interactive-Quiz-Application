@@ -26,7 +26,7 @@ An interactive and user-friendly quiz application built using **HTML**, **CSS**,
 
 ## 📸 Screenshot
 
-![App Screenshot]<img width="642" alt="screenshot" src="https://github.com/user-attachments/assets/931a65a1-b929-4126-b980-cff52b5198f8" />
+<img width="642" alt="screenshot" src="https://github.com/user-attachments/assets/931a65a1-b929-4126-b980-cff52b5198f8" />
 
 
 ---
